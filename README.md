@@ -16,6 +16,7 @@ Map has to be surrounded by unbreakable stone. Otherwise, it will create undefin
 
 After compiling you have to draw a map in console. For example:
 
+```
 ########################################
 #.............O........................#
 #.............O........................#
@@ -31,6 +32,7 @@ After compiling you have to draw a map in console. For example:
 #......................................#
 #......................                #
 ########################################
+```
 
 Program will know that you finished drawing after you give it an empty row (just hit enter two times). After that you can move Rockford using WASD keys. Other keys are ignored.
 Text User Interface is provided (implemented with ncurses library). If you want to turn it on, you have to compile it with -DTUI option. 
