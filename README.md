@@ -1,10 +1,9 @@
 Curse of Boulder Dash - game based on First Star Software's "Boulder Dash" (also known as "Rockford") which was released in 1984.
 
 Author: Arkadiusz Tomczak
-Version: 1.0
-Date: 30-11-2015
-Language:
- - Program language: N/A
+Version: 1.0</br>
+Date: 30-11-2015</br>
+Language:</br>
  - Variable names: Polish
  - Comments: Polish
 
